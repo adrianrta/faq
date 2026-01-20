@@ -31,6 +31,42 @@
 **Q: Do you use game audio when speedrunning?**
 > **A:** Yes
 
+**Q: What consoles do you own and what are your favorite games on them?**
+> **A:**
+> * **Nintendo DS**
+>   * New Super Mario Bros.
+>   * Mario Kart DS
+>   * Mario Hoops 3 on 3
+>   * Club Penguin
+> * **Nintendo Wii**
+>   * New Super Mario Bros. Wii
+>   * Super Mario Galaxy
+>   * Super Mario Galaxy 2
+> * **Nintendo Wii U**
+>   * Super Mario 3D World
+> * **Nintendo Switch**
+>   * Super Mario Bros. Wonder
+>   * Super Mario Odyssey
+>   * Super Mario 3D World + Bowser's Fury
+> * **Nintendo Switch 2**
+>   * Mario Kart World
+>   * Super Mario Bros. Wonder Switch 2 Edition
+
+**Q: What's your capture card setup?**
+> **A:** My **Elgato HD60 Pro** is connected to a *3 way HDMI splitter* that connects to my 3 main consoles:
+> * Wii U
+> * Switch
+> * Switch 2
+
+**Q: Will you run any other games?**
+> **A: You can expect me to speedrun mainly Mario titles** because again, *"The movement is $wag money" -Twirly"*
+
+**Q: What's your LiveSplit font?**
+> **A: DIN2014 Bold**, Super Mario Bros. Wonder's font
+
+**Q: What other games do you play?**
+> **A: Call of Duty: Black Ops III** for zombies, but I have a large backlog of casual games I need to complete too, most of which are also platformers!
+
 ## Socials
 * [**Twitch**](https://twitch.tv/adrianRTA1)
 * [**YouTube**](https://youtube.com/@adrianrta)

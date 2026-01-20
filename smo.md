@@ -26,7 +26,7 @@
 > **A: This instantly grows a seed in Sand Kingdom that triggers Daylight Savings 7 minutes after the timer starts, jumping the time forward by an hour.** Casually, you'd have to wait for this seed to grow over time, but it will grow instantly once you enter a subarea and back out of it.
 
 **Q: Are emulators allowed?**
-> **A: Not on speedrun.com**, but you can use one for the [**practice mod**](https://github.com/fruityloops1/smo-practice-2/releases)
+> **A: Not on speedrun.com**, but you can use one for the [**practice mod**](https://github.com/fruityloops1/smo-practice-2/releases)!
 
 ## Resources
 * [**Practice Mod**](https://github.com/fruityloops1/smo-practice-2/releases)

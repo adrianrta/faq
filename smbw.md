@@ -84,6 +84,9 @@
 **Q: I can't mod my Switch, how can I practice?**
 > **A: You can practice on a 100% file and use Item Park to grab items.** No need to grab the Wonder Seed - you can grab items and go!
 
+**Q: Are emulators allowed?**
+> **A: Not on speedrun.com**, but you can use one for the [**practice mod**](https://gamebanana.com/mods/626696)!
+
 **Q: Who made your split backgrounds?**
 > **A:**
 > * [**ヤマリ**](https://twitter.com/ya_mari_6363)
