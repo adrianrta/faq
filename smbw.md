@@ -51,7 +51,7 @@
 
 **Q: What game version are you using?**
 > **A:**
-> * **v1.0.0 on Switch 1** for Any% and practice using the [**Practice Mod**](https://gamebanana.com/mods/626696) created by me and Codek
+> * **v1.0.0 on Switch 1** for Any% and practice using the [**Practice Mod**](https://gamebanana.com/mods/626696) created by Codek and myself
 > * **v1.0.2 on Switch 2** for runs to take advantage of its loads
 
 **Q: How do I revert back to v1.0.0?**
@@ -72,7 +72,7 @@
 > * While not the fastest language, in 100% I use English text for Taily's Toxic Pond's quiz
 
 **Q: What's that practice mod you're using?**
-> **A: [This mod, created by Codek and myself](https://gamebanana.com/mods/626696)**
+> **A: [This mod, created by Codek and myself!](https://gamebanana.com/mods/626696)**
 
 **Q: How do you practice without music?**
 > **A:**
