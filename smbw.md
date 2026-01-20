@@ -56,9 +56,9 @@
 > * **v1.0.2 on Switch 2** for runs to take advantage of its loads
 
 **Q: How do I revert back to v1.0.0?**
-> **A: It's near impossible to revert back to v1.0.0 on Switch 2 due to a firmware update making v1.0.0 unplayable, but for Switch 1:**
+> **A: It's near impossible to use v1.0.0 on Switch 2 due to a firmware update making v1.0.0 cartridges unplayable, but for Switch 1:**
 > * [**Digital - a hacked Switch is needed**](https://switch.hacks.guide)
 > * **Physical - with a factory reset**
->
+
 > [!WARNING]
->   * **BACK UP YOUR SAVE DATA FIRST**
+>   * **BACK UP YOUR SAVE DATA FIRST IF YOU PLAN ON USING v1.0.0 PHYSICALLY!**
