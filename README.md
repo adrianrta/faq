@@ -23,7 +23,7 @@
 
 **Q: What inputs do you use?**
 > **A:**
-> * **Pro Controller** for *Super Mario Bros. Wonder* and *Mario Kart World*, but if my procon is drifting I use the Switch 2 Joy-Cons
+> * **Pro Controller** for *Super Mario Bros. Wonder*, *Super Mario Odyssey* and *Mario Kart World*, but if my procon is drifting I use the Switch 2 Joy-Cons
 > * **Wiimote** for *New Super Mario Bros. Wii*
 > * **Sayodevice O3C** for *Geometry Dash*, but I've used mice like the Logitech G203/Razer Viper 8K before
 
