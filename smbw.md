@@ -71,6 +71,9 @@
 > * **Spanish text** via system language
 > * While not the fastest language, in 100% I use English text for Taily's Toxic Pond's quiz
 
+**Q: What's that practice mod you're using?**
+> **A: [This mod, created by Codek and myself](https://gamebanana.com/mods/626696)**
+
 **Q: How do you practice without music?**
 > **A:**
 > 1. [**This mod**](https://gamebanana.com/sounds/70994) removes level and title screen music
@@ -119,3 +122,10 @@
 
 **Q: How tight is the flower coin routing?**
 > **A: At a top level, you only have a 5 coin buffer before you'll need backup 10-flower coin.**
+
+## Resources
+* [**Practice Mod [WIP]**](https://gamebanana.com/mods/626696)
+* [**Master Sheet**](https://docs.google.com/spreadsheets/d/14kD2yrfmQuki26VlelmBIKBhbn0nsBmf81pDX9DFgLQ/edit?gid=0#gid=0)
+* [**Speedrunning Discord**](https://discord.gg/kxjxDKu4QX)
+* [**Leaderboards**](https://speedrun.com/smbw)
+* [**Extra Resources**](https://speedrun.com/smbw/resources)
