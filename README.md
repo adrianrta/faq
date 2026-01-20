@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## Game Specific FAQs
-* [**Super Mario Bros. Wonder**]()
+* [**Super Mario Bros. Wonder**](https://github.com/adrianrta/faq/blob/main/smbw.md)
 * [**New Super Mario Bros. Wii**]()
 * [**Geometry Dash**]()
 * [**Mario Kart World**]()
