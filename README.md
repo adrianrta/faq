@@ -36,5 +36,6 @@
 * [**YouTube**](https://youtube.com/@adrianrta)
 * [**VOD Archives**](https://youtube.com/@adr2anrta)
 * [**Twitter**](https://twitter.com/adrianrta1)
+* [**Bluesky**](https://bsky.app/profile/adrianrta.bsky.social)
 * [**speedrun.com**](https://speedrun.com/users/adrianRTA)
 * [**Instagram**](https://instagram.com/adrianrta1)
