@@ -4,7 +4,7 @@
 
 ## Main
 **Q: Digital or Physical?**
-> **A: Physical has slower loads, but it is what 99% of players use due to Digital being a Wii U Virtual console rerelease.**
+> **A: Physical has slower loads, but 99% of players use it due to Digital being a Wii U Virtual console rerelease.**
 
 **Q: What's the fastest console to run on?**
 > **A: Wiis are known to have inconsistent loads compared to each other. From fastest to slowest (average loads):**
