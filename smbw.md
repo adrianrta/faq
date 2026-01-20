@@ -20,9 +20,9 @@
 
 **Q: How do you deal with Jet Run?**
 > **A:**
-> 1. Crouching + holding left and right repeatedly
-> 2. Using the emote menu by holding Y
-> 3. Leaning against walls
+> * Crouching + holding left and right repeatedly
+> * Using the emote menu by holding Y
+> * Leaning against walls
 
 **Q: Why do you hold A while getting powerups?**
 > **A: The collected item doesn't override the reserve item** for extra flower coins or to save it for later.
