@@ -4,7 +4,7 @@
 
 ## Main
 **Q: Digital or Physical?**
-> **A: Digital has faster loads**. Mizu estimates that a physical copy loses 10s in 100%.
+> **A: Digital has faster loads.** Mizu estimates that a physical copy loses 10s in 100%.
 
 **Q: Switch or Switch 2?**
 > **A: Switch 2 is faster** (~2m in 100% and ~50s in NMG), but is banned in Any% due to a firmware update making v1.0.0 unplayable.
