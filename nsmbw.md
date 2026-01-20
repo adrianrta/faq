@@ -75,6 +75,9 @@
 **Q: What's the background in your layout?**
 > **A: I use Wallpaper Engine via a window and add it as a source to OBS.**
 
+**Q: Are emulators allowed?**
+> **A: Not on speedrun.com**, but savestates make emulator a good option for practice!
+
 ## Resources
 * [**Practice Mod**](https://github.com/RoadrunnerWMC/NSMBW-Practice-Mode/releases)
 * [**IL Mod**](https://github.com/RoadrunnerWMC/NSMBW-ILs-Mod/releases/latest)

@@ -65,7 +65,7 @@
 **Q: Are there any differences between the game versions?**
 > **A: There's an unpatched World 5 clip in v1.0.1 using a ? Block** (not tested on v1.0.2).
 
-**Q: Fastest language?**
+**Q: What are the fastest languages?**
 > **A:**
 > * **Simplified Chinese Talking Flowers** by starting a file, using the in-game settings and restarting the game
 > * **Spanish text** via system language
@@ -80,6 +80,9 @@
 > 2. [**This mod**](https://gamebanana.com/sounds/71558) removes the world map music
 >
 > Both require a modded Switch to use.
+
+**Q: I can't mod my Switch, how can I practice?**
+> **A: You can practice on a 100% file and use Item Park to grab items.** No need to grab the Wonder Seed - you can grab items and go!
 
 **Q: Who made your split backgrounds?**
 > **A:**
