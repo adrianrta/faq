@@ -2,10 +2,10 @@
 
 ## Game Specific FAQs
 * [**Super Mario Bros. Wonder**](https://github.com/adrianrta/faq/blob/main/smbw.md)
-* [**New Super Mario Bros. Wii**]()
-* [**Geometry Dash**]()
-* [**Super Mario Odyssey**]()
-* [**Mario Kart World**]()
+* [**New Super Mario Bros. Wii**](https://github.com/adrianrta/faq/blob/main/nsmbw.md)
+* [**Geometry Dash**](https://github.com/adrianrta/faq/blob/main/gd.md)
+* [**Super Mario Odyssey**](https://github.com/adrianrta/faq/blob/main/smo.md)
+* [**Mario Kart World**](https://github.com/adrianrta/faq/blob/main/mkworld.md)
 
 ## Main
 
