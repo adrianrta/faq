@@ -24,8 +24,17 @@
 **Q: What inputs do you use?**
 > **A:**
 > * **Pro Controller** for *Super Mario Bros. Wonder*, *Super Mario Odyssey* and *Mario Kart World*, but if my procon is drifting I use the Switch 2 Joy-Cons
-> * **Wiimote** for *New Super Mario Bros. Wii*
+> * **Wii Remote** for *New Super Mario Bros. Wii*
+>   * Shoutouts to Cads, pinbruh and Sean for offering me Wii remotes when mine reached the end of their lifespan!
 > * **Sayodevice O3C** for *Geometry Dash*, but I've used mice like the Logitech G203/Razer Viper 8K before
 
 **Q: Do you use game audio when speedrunning?**
 > **A:** Yes
+
+## Socials
+* [**Twitch**](https://twitch.tv/adrianRTA1)
+* [**YouTube**](https://youtube.com/@adrianrta)
+* [**VOD Archives**](https://youtube.com/@adr2anrta)
+* [**Twitter**](https://twitter.com/adrianrta1)
+* [**speedrun.com**](https://speedrun.com/users/adrianRTA)
+* [**Instagram**](https://instagram.com/adrianrta1)
