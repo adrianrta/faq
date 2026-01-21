@@ -27,3 +27,6 @@
 > **A:** It might just have to do with the *"$wag money movement" -Twirly*
 >
 > **Genuinely speaking, I really like how well this game moves compared to the past entries in the Mario Kart series.** Rails, charge jumping, you name it. I also think that the item pool and mechanics are pretty balanced, so with Mario Kart World being a super recent addition, the community is as active as it could be so I will take advantage of the time that is there!
+
+**Q: What's that image you're using to hide the room code?**
+> **A: [I got it from this Twitter post](https://twitter.com/nerdkaykay/status/1991993289978061193)**
