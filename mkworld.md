@@ -38,3 +38,8 @@
 > **A: [THE DUDE NOBODY INVITED:](https://twitter.com/nerdkaykay/status/1991993289978061193)**
 >
 > ![THE DUDE NOBODY INVITED: LUIGI](https://pbs.twimg.com/media/G6T7VrKWwAAobHM?format=jpg&name=large)
+
+## Resources
+* [**MKWorld Competitive Lounge Discord Server**](https://discord.gg/WR6JKPn2v9)
+* [**MKWorld Lounge Leaderboard**](https://lounge.mkcentral.com/mkworld)
+* [**MKCentral**](https://mkcentral.com/en-us)
