@@ -58,7 +58,7 @@
 > * Switch
 > * Switch 2
 >
-> The next time I get a capture card, I will likely get something that supports 120 FPS and HDR output for my Switch 2.
+> I will likely get something that supports 120 FPS and HDR output for my Switch 2 the next time I get a capture card.
 
 **Q: Will you run any other games?**
 > **A: You can expect me to speedrun mainly Mario titles** because again, *"The movement is $wag money" -Twirly*
