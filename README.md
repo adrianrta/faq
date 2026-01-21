@@ -28,6 +28,12 @@
 >   * Shoutouts to Cads, pinbruh and Sean for offering me Wii remotes when mine reached the end of their lifespan!
 > * **Sayodevice O3C** for *Geometry Dash*, but I've used mice like the Logitech G203/Razer Viper 8K before
 
+**Q: Are you Adr1anGD from Geometry Dash?**
+> **A: Yes**, I changed my name on 4/7/25.
+
+**Q: Are you done with Geometry Dash?**
+> **A: At the top level, yes**, but I may beat things from time to time.
+
 **Q: Do you use game audio when speedrunning?**
 > **A:** Yes
 
