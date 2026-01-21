@@ -28,5 +28,6 @@
 >
 > **Genuinely speaking, I really like how well this game moves compared to the past entries in the Mario Kart series.** Rails, charge jumping, you name it. I also think that the item pool and mechanics are pretty balanced, so with Mario Kart World being a super recent addition, the community is as active as it could be so I will take advantage of the time that is there!
 
-**Q: What's that image you're using to hide the room code?**
-> **A: [I got it from this Twitter post](https://twitter.com/nerdkaykay/status/1991993289978061193)**
+**Q: Where'd you get the image that you're using to hide the room code?**
+> **A: [THE DUDE NOBODY INVITED:](https://twitter.com/nerdkaykay/status/1991993289978061193)**
+> ![THE DUDE NOBODY INVITED: LUIGI](https://pbs.twimg.com/media/G6T7VrKWwAAobHM?format=jpg&name=large)
