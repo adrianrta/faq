@@ -24,7 +24,7 @@
 
 **Q: What's your Pointercrate name?**
 > **A:** I'm [**adrian**](https://pointercrate.com/demonlist/statsviewer?player=33843) on Pointercrate
-> * I peaked at #62 worldwide with ~1290 list points.
+> * I peaked at #62 worldwide with ~1290 list points
 
 **Q: What other completions are you very proud of?**
 > **A:**
