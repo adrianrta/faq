@@ -13,7 +13,7 @@
 > **A:** This answer changes all the time so feel free to ask in chat!
 
 **Q: Why Mario speedruns?**
-> **A:** *"The movement is $wag money" -Twirly"*
+> **A:** *"The movement is $wag money" -Twirly*
 
 **Q: Why long categories?**
 > **A:** The small room for error + a big PB in a long category > a small PB in a short category
@@ -57,9 +57,11 @@
 > * Wii U
 > * Switch
 > * Switch 2
+>
+> The next time I get a capture card, I will likely get something that supports 120 FPS and HDR output for my Switch 2.
 
 **Q: Will you run any other games?**
-> **A: You can expect me to speedrun mainly Mario titles** because again, *"The movement is $wag money" -Twirly"*
+> **A: You can expect me to speedrun mainly Mario titles** because again, *"The movement is $wag money" -Twirly*
 
 **Q: What's your LiveSplit font?**
 > **A: DIN2014 Bold**, Super Mario Bros. Wonder's font
