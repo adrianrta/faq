@@ -1,7 +1,5 @@
 # Super Mario Odyssey FAQ
 
-![Super Mario Odyssey logo](https://mario.wiki.gallery/images/5/57/SMO_Logo_Final.png?download)
-
 ## Main
 **Q: Digital or Physical?**
 > **A: Digital has faster loads.**
