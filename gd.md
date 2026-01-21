@@ -45,7 +45,7 @@
 > **A: I saw another friend play it on his phone** and I of course had to try it myself.
 
 **Q: Is 280Hz worth it?**
-> **A: 100%**. With VSync, you can have the same amount of input delay vs. 288 FPS bypass while getting the smoothness of VSync. 3x and 4x speed parts got easier from the extra frames I can see and react to and even if I rarely play now, having 280Hz is still nice.
+> **A: 100%**. With VSync, you can have the same amount of input delay vs. 288 FPS bypass while getting the smoothness of VSync. 3x and 4x speed parts got easier from the extra frames I can see and react to. Even if I rarely play now, having 280Hz is still nice.
 
 **Q: What mod menu are you using?**
 > **Mega Hack v7 or v8**
