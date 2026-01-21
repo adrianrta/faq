@@ -43,7 +43,7 @@
 >   * New Super Mario Bros.
 >   * Mario Kart DS
 >   * Mario Hoops 3 on 3
->   * Club Penguin
+>   * Club Penguin: Elite Penguin Force
 > * **Nintendo Wii**
 >   * New Super Mario Bros. Wii
 >   * Super Mario Galaxy
