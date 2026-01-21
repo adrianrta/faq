@@ -8,11 +8,11 @@
 
 **Q: What is your top 5?**
 > **A: Ranked in my opinion -**
-> 1. [**Sonic Wave Infinity**](https://youtu.be/0C3vaSYTQIQ) *[11/29/23]*
-> 2. [**The Golden**](https://youtu.be/kHsWCzmwI-w) *[5/2/23]*
-> 3. [**Tartarus**](https://youtu.be/TSHTbd5edZc) *[8/23/22]*
-> 4. [**Oblivion**](https://www.twitch.tv/videos/1671721641) *[12/5/22]*
-> 5. [**Sinister Silence**](https://youtu.be/WK2mjdh1XUw) *[1/7/24]*
+> 1. [**Sonic Wave Infinity**](https://youtu.be/0C3vaSYTQIQ) [11/29/23]
+> 2. [**The Golden**](https://youtu.be/kHsWCzmwI-w) [5/2/23]
+> 3. [**Tartarus**](https://youtu.be/TSHTbd5edZc) [8/23/22]
+> 4. [**Oblivion**](https://www.twitch.tv/videos/1671721641) [12/5/22]
+> 5. [**Sinister Silence**](https://youtu.be/WK2mjdh1XUw) [1/7/24]
 
 **Q: Hardest demons you beat during their times?**
 > **A:**
