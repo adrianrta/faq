@@ -85,7 +85,7 @@
 > **A: You can practice on a 100% file and use Item Park to grab items.** No need to grab the Wonder Seed - you can grab items and go!
 
 **Q: Are emulators allowed?**
-> **A: Not on speedrun.com**, but you can use one for the [**practice mod**](https://gamebanana.com/mods/626696)!
+> **A: Not on speedrun.com**, but you can use one for the [**Practice Mod**](https://gamebanana.com/mods/626696)!
 
 **Q: Who made your split backgrounds?**
 > **A:**
@@ -94,6 +94,9 @@
 > * [**yirie**](https://twitter.com/yirieyume)
 > * [**akii 💕**](https://twitter.com/akiiame)
 > * [**TheMathewFlames**](https://twitter.com/TheMathewFlames)
+
+**Q: What's that level editor program you're using?**
+> **A:** That is **Fushigi**, the app I'm using to create the [**Practice Mod**](https://gamebanana.com/mods/626696) alongside Codek! I also use it to analyze levels in complete detail, specifically flower coin routing for 100%.
 
 ## 100%
 **Q: What are 100%'s requirements?**
