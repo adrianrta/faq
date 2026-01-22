@@ -96,7 +96,7 @@
 > * [**TheMathewFlames**](https://twitter.com/TheMathewFlames)
 
 **Q: What's that level editor program you're using?**
-> **A:** That is **Fushigi**, the app I'm using to create the [**Practice Mod**](https://gamebanana.com/mods/626696) alongside Codek! I also use it to analyze levels in complete detail, specifically flower coin routing for 100%.
+> **A:** That is [**Fushigi**](https://github.com/MemetendoYT/Fushigi/releases), the app I'm using to create the [**Practice Mod**](https://gamebanana.com/mods/626696) alongside Codek! I also use it to analyze levels in complete detail, specifically flower coin routing for 100%.
 
 ## 100%
 **Q: What are 100%'s requirements?**
