@@ -56,7 +56,7 @@
 >   * Super Mario 3D World + Bowser's Fury
 > * **Nintendo Switch 2**
 >   * Mario Kart World
->   * Super Mario Bros. Wonder Switch 2 Edition
+>   * Super Mario Bros. Wonder - Switch 2 Edition + Meetup in Bellabel Park
 
 **Q: What's your capture card setup?**
 > **A:** My **Elgato HD60 Pro** is connected to a *3 way HDMI splitter* that connects to my 3 main consoles:
