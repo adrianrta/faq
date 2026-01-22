@@ -95,6 +95,9 @@
 > * [**akii 💕**](https://twitter.com/akiiame)
 > * [**TheMathewFlames**](https://twitter.com/TheMathewFlames)
 
+**Q: Will you be running Switch 2 Edition when it releases?**
+> **Q: Yes!** I'll still be in the middle of my semester so don't expect 100%, but I will consider it once that ends (if not, Switch 1 Edition 100% it is).
+
 **Q: What's that level editor program you're using?**
 > **A:** That is [**Fushigi**](https://github.com/MemetendoYT/Fushigi/releases), the app I'm using to create the [**Practice Mod**](https://gamebanana.com/mods/626696) alongside Codek! I also use it to analyze levels in complete detail, specifically flower coin routing for 100%.
 
