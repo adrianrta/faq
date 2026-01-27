@@ -21,7 +21,7 @@
 **Q: Why do you take ages (re)learning a category?**
 > **A:** I want to take my time for the long term; I improve way faster once I start runs
 
-**Q: What inputs do you use?**
+**Q: What input devices do you use?**
 > **A:**
 > * **Pro Controller** for *Super Mario Bros. Wonder*, *Super Mario Odyssey* and *Mario Kart World*, but if my procon is drifting I use the Switch 2 Joy-Cons
 > * **Wii Remote** for *New Super Mario Bros. Wii*
@@ -32,7 +32,7 @@
 > **A: Yes**, I changed my name on 4/7/25.
 
 **Q: Are you done with Geometry Dash?**
-> **A: At the top level, yes**, but I may beat things from time to time.
+> **A: At the top level, yes**, but I may beat things from time to time (likely 2 player levels with Lucidium)!
 
 **Q: Do you use game audio when speedrunning?**
 > **A:** Yes
@@ -56,7 +56,6 @@
 >   * Super Mario 3D World + Bowser's Fury
 > * **Nintendo Switch 2**
 >   * Mario Kart World
->   * Super Mario Bros. Wonder - Switch 2 Edition + Meetup in Bellabel Park
 
 **Q: What's your capture card setup?**
 > **A:** My **Elgato HD60 Pro** is connected to a *3 way HDMI splitter* that connects to my 3 main consoles:
@@ -73,7 +72,58 @@
 > **A: DIN2014 Bold**, Super Mario Bros. Wonder's font
 
 **Q: What other games do you play?**
-> **A: Call of Duty: Black Ops III** for zombies, but I have a large backlog of casual games I need to complete too, most of which are also platformers!
+> **A: Call of Duty: Black Ops III** for zombies, but here is my current backlog of games I need to get started on or complete:
+> * Platformers
+>   * Crash Bandicoot&trade; N. Sane Trilogy
+>     * Crash Bandicoot
+>     * Crash Bandicoot 2: Cortex Strikes Back
+>     * Crash Bandicoot: Warped
+>   * Getting Over It with Bennett Foddy
+>   * Portal
+>   * Portal 2
+> * Other
+>   * Super Mario RPG
+>   * Gunbrella
+>   * Gato Roboto
+>
+> Here is a list of games that I'm interested in, but don't own yet:
+> * Platformers
+>   * Hollow Knight: Silksong
+>   * Crash Bandicoot&trade; 4: It's About Time
+>   * Astro Bot (definitely not for a while, I'm not buying a console for 1 game)
+
+**Q: Where can I find your Spotify playlist?**
+> **A: [Here](https://open.spotify.com/playlist/4Pk4vVgvccBbB9JDTqIXVE?si=e35194c931ce43e2)**
+>
+> More specifically, here are my favorite artists in no particular order:
+> * Travis Scott
+> * Future
+> * Metro Boomin
+> * Tyler, The Creator
+> * Kendrick Lamar
+> * JPEGMAFIA
+> * Gunna
+> * Lil Uzi Vert
+> * Don Toliver
+> * 2Pac
+> * JAY-Z
+> * Drake
+> * Kanye West
+> * The Weeknd
+> * Bruno Mars
+> * Michael Jackson
+> * Pitbull
+> * Post Malone
+> * Maroon 5
+> * Flo Rida
+> * Coldplay
+
+**Q: Do you have a stream schedule?**
+> **A: No**, as a college student I stream when
+> * I have the time
+> * I'm in the mood to; I'd like streaming to feel more like a hobby compared to a chore
+>
+> My free time opens up in the summer, so you can expect more streams around there!
 
 ## Socials
 * [**Twitch**](https://twitch.tv/adrianRTA1)
