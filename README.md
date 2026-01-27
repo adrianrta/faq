@@ -113,6 +113,7 @@
 > * Bruno Mars
 > * Michael Jackson
 > * Pitbull
+> * Tame Impala
 > * Post Malone
 > * Maroon 5
 > * Flo Rida
