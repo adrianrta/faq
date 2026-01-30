@@ -126,6 +126,29 @@
 >
 > My free time opens up in the summer, so you can expect more streams around there!
 
+**Q: What are your PC specs?**
+> **A:**
+> * **CPU** - *AMD* Ryzen 7 5700X @ 4.6 GHz
+> * **CPU Cooler** - *Deepcool* AK620 Air Cooler
+> * **GPU** - *Asus* STRIX GAMING OC GeForce RTX 2070
+> * **RAM** - *G.Skill* Trident Z RGB 16 GB (2 x 8 GB) DDR4-3600
+> * **Storage** - *Western Digital* Black SN770 1 TB M.2-2280
+> * **Motherboard** - *Asus* ROG STRIX B550-A GAMING
+> * **Power Supply** - *Corsair* RM750 750 W 80+ Gold Certified
+> * **Case** - *NZXT* H710 ATX Mid Tower
+> * **Case Fans** - *Corsair* LL120 (x3)
+> * **Capture Card** - *Elgato* HD60 Pro
+>
+> **Peripherals**
+> * **Keyboard** - *Ducky* One 2 Mini (Cherry MX Brown Switches)
+>   * **Keycaps** - *Ducky* Seamless Legend Keycap Set (Coral/Blue)
+>   * **Keypad** - *SayoDevice* O3C
+> * **Mouse** - *Glorious* Model O Wireless (White)
+> * **Mousepad** - *Corsair* MM300 Extended
+> * **Headphones** - *beyerdynamic* DT990 Pro Black Edition
+> * **Earbuds** - *Apple* AirPods 4
+> * **Microphone** - *Blue* Yeti Blackout Edition
+
 ## Socials
 * [**Twitch**](https://twitch.tv/adrianRTA1)
 * [**YouTube**](https://youtube.com/@adrianrta)
