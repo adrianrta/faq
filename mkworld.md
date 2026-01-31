@@ -21,7 +21,7 @@
 > **A: N**o **I**tem **S**hort**c**ut
 
 **Q: You're a speedrunner, why did you choose to play Mogi Lounge over Time Trials or other speedruns?**
-> **A: I felt like picking up something new that wasn't speedrunning and I'm more of a long category enjoyer.** I might try 30 Tracks one day, but I've had the idea of committing to a single track and grinding for WR that way. I haven't started this because I don't know what track I'd like to grind and optimizing by the frame will definitely be challenging.
+> **A: I felt like picking up something new that wasn't speedrunning and I'm more of a long category enjoyer.** I might try 30 Tracks one day, but I've had the idea of committing to a single track and grinding for WR that way. Also, I haven't started this because I don't know what track I'd like to grind and optimizing by the frame will definitely be challenging.
 
 **Q: So what's your goal with Mogi Lounge? Are you trying to reach a specific rank?**
 > **A: Nope, this is my first time playing competitive Mario Kart so I'm going in without any goals in mind.** Whatever happens will happen and I'm mainly doing this for the love of the game =)
