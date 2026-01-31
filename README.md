@@ -69,6 +69,15 @@
 **Q: Will you run any other games?**
 > **A: You can expect me to speedrun mainly Mario titles** because again, *"The movement is $wag money" -Twirly*
 
+**Q: Who made your split backgrounds?**
+> **A:**
+> * [**ヤマリ**](https://twitter.com/ya_mari_6363)
+> * [**☆🟡👞**](https://twitter.com/mari_luijiroh)
+> * [**yirie**](https://twitter.com/yirieyume)
+> * [**akii 💕**](https://twitter.com/akiiame)
+> * [**TheMathewFlames**](https://twitter.com/TheMathewFlames)
+> * [**🦆**](https://twitter.com/iiikeducks_)
+
 **Q: What's your LiveSplit font?**
 > **A: DIN2014 Bold**, Super Mario Bros. Wonder's font
 

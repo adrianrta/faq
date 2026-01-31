@@ -87,14 +87,6 @@
 **Q: Are emulators allowed?**
 > **A: Not on speedrun.com**, but you can use one for the [**practice mod**](https://gamebanana.com/mods/626696)!
 
-**Q: Who made your split backgrounds?**
-> **A:**
-> * [**ヤマリ**](https://twitter.com/ya_mari_6363)
-> * [**☆🟡👞**](https://twitter.com/mari_luijiroh)
-> * [**yirie**](https://twitter.com/yirieyume)
-> * [**akii 💕**](https://twitter.com/akiiame)
-> * [**TheMathewFlames**](https://twitter.com/TheMathewFlames)
-
 ## 100%
 **Q: What are 100%'s requirements?**
 > **A: 100% obtains all 6 medals on a save file by**
