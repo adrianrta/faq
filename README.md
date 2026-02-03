@@ -101,6 +101,8 @@
 >   * Crash Bandicoot&trade; 4: It's About Time
 >   * Astro Bot (definitely not for a while, I'm not buying a console for 1 game)
 
+## Miscellaneous
+
 **Q: Where can I find your Spotify playlist?**
 > **A: [Here](https://open.spotify.com/playlist/4Pk4vVgvccBbB9JDTqIXVE?si=e35194c931ce43e2)**
 >
@@ -157,6 +159,100 @@
 > * **Headphones** - *beyerdynamic* DT990 Pro Black Edition
 > * **Earbuds** - *Apple* AirPods 4
 > * **Microphone** - *Blue* Yeti Blackout Edition
+
+## IRL
+
+**Q: You've said you've travelled to 30 countries, which ones have you been to?**
+> **A (in order):**
+> 1. **United States of America** (born here, specifically NorCal)
+>    * Alaska
+>    * Arizona
+>    * California
+>    * Colorado (stopover)
+>    * Florida
+>    * Hawaii
+>    * Illinois
+>    * Minnesota
+>    * Nevada
+>    * New Jersey
+>    * New York
+>    * North Carolina (stopover)
+>    * Oregon
+>    * Pennsylvania
+>    * Texas (stopover)
+>    * Utah
+>    * Virginia
+>    * Washington
+> 2. **Canada** (currently live here)
+> 3. **The Bahamas**
+> 4. **Mexico**
+> 5. **Taiwan** (stopover)
+> 6. **Philippines**
+> 7. **France**
+> 8. **Portugal**
+> 9. **Iceland**
+> 10. **Italy**
+> 11. **Vatican City**
+> 12. **Greece**
+> 13. **Turkey**
+> 14. **Montenegro**
+> 15. **Spain**
+> 16. **Netherlands**
+> 17. **United Kingdom**
+> 18. **Japan**
+> 19. **South Korea**
+> 20. **Switzerland**
+> 21. **Liechtenstein**
+> 22. **Austria**
+> 23. **Hungary**
+> 24. **Czech Republic**
+> 25. **Germany**
+> 26. **Belgium**
+> 27. **Luxembourg**
+> 28. **Finland**
+> 29. **Denmark**
+> 30. **Sweden**
+
+**Q: From the above, what are your favorite countries?**
+> **A (in no particular order):**
+> * **Switzerland** - Easily one of the most beautiful countries I've been to, though quite pricey. One of our first meals down there was instant ramen, brought from home omE
+>   * #1 thing to do here from personal experience is paragliding, seen in my [**channel trailer**](https://twitch.tv/videos/2651885292). It looks scary, but trust me, it's one of the best life experiences that there is out there.
+> * **Iceland** - Just as beautiful as Switzerland.
+>   * If you want a hot springs experience, I personally went to the Blue Lagoon.
+>   * Icelandic lamb soup is goated
+>   * A former top 1 GD player is from there (shououts to Ingi)
+> * **Japan** - They truly are living in the future and their culture is built on respect which I really appreciate.
+>   * #1 thing to do here: go-karting in the streets of Tokyo (or any other major city)!
+>   * Try riding a bullet train, I went from Tokyo to Osaka this way. It is impressive how quiet they are even while going 200 mph (320 km/h)!
+>   * Definitely go video game shopping too, if you look hard enough you can find titles at crazy prices. I bought
+>     * Super Mario RPG for $30
+>     * Super Mario Bros. Wonder for $36
+>     * Super Mario World for $6
+>
+> *Pro tip*: if you buy over a threshold, you can get your items tax free. You won't get to use them until you leave the country, but that's not a big deal =)
+>   * Japanese food is consistently delicious no matter where you eat it, so it's no surprise that it's done best where it all started
+>     * #1 thing to eat: Wagyu. If you haven't been to a teppanyaki spot where chefs cook in front of you, it's way better off waiting until you get to Japan to do that. Wagyu itself is already very tender, but Kobe beef is even better which I haven't tried and I plan to when I return!
+>     * In Tokyo, check out Ramen Street found in Tokyo Station First Avenue. You can get yourself a fairly stacked, delicious ramen for less than $10!
+>     * For sushi, find an omakase where the chef delivers a personalized multi-course meal. It is expensive, but the best of the best ingredients alongside watching the chef make your meal up close is what makes it so worth the money.
+>     * Other great food options: Shabu shabu, katsu, udon dishes, etc.
+>   * If I chose to live abroad, Japan would be one of my first picks because
+>     * I would automatically be closer to my home country, the Philippines to visit family more often
+>     * I've resided in North America (both US and Canada) my whole life, but because I travel a lot I partially don't feel the need to live abroad
+> * **South Korea** - Seoul is a bustling city, Jeju Island is a great place to drive around for a day trip and I'd also check out Busan, which I unfortunately didn't get to go to.
+>   * Korean food is some of the best food that's out there:
+>     * If you like BBQ, this is the place to be in!
+>     * Lots of amazing street food (corn dogs, more BBQ, etc.)
+> * **Germany** - I love the autobahn for being the only freeway in the world with no speed limit, so if you plan on going there you should get a driver's license first! Please drive safe though, I personally kept a 5 car gap in front of me and only sped up on straightaways during the day.
+>   * The place for cars (Audi, BMW, Mercedes-Benz, Volkswagen)
+>     * I visited the Audi Museum in Ingolstadt; I'm not a big car guy, but it's awesome and worth a visit (W cheap entry too)
+>   * My top autobahn speed was ~117 mph (188 km/h) and I hope to reach at least 200 km/h the next time I'm there!
+>     * I've heard that a driver's license there is very expensive and hard to obtain, but the drivers are very civilized as a result. They will always move to the right if you want to overtake them, there's always an open lane on the left for emergency reasons and not following the rules can result in hefty fines.
+>   * Shoutouts to bebelnirk the j
+> * **Portugal** - The first European country I got to visit and man, Lisbon is beautiful. I also went to Porto which is just as cool.
+>   * For food, you should try grilled squid or octopus in olive oil
+> * **Spain** - Very hot during the summer, but I enjoyed my time in Barcelona. I also went hiking in Montserrat which is a small town in the mountains!
+>   * For food, definitely try tapas (appetizer size dishes, but you can sample all sorts of food) or paella (rice dish)
+>   * I went thrift shopping here
 
 ## Socials
 * [**Twitch**](https://twitch.tv/adrianRTA1)
